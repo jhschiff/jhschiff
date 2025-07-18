@@ -1,6 +1,6 @@
 # Hi there, I'm Jordan 👋  
 
-- 💻 I’m a Full Stack Software Engineer  
+- 💻 I’m a Full Stack Software Engineer at BNY  
 - 🌱 I’m currently exploring new roles in NYC
 - 🔭 I’m learning more about Vue, Next.js, and cloud platforms  
 - 💬 Ask me about ANYTHING from building scalable web apps to hypothetical NBA trades    
