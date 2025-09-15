@@ -1,7 +1,6 @@
 # Hi there, I'm Jordan 👋  
 
-- 💻 I’m a Full Stack Software Engineer at BNY  
-- 🌱 I’m currently exploring new roles in NYC
+- 💻 I’m a Full Stack Software Engineer at Evertune  
 - 🔭 I’m learning more about Vue, Next.js, and cloud platforms  
 - 💬 Ask me about ANYTHING from building scalable web apps to hypothetical NBA trades    
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jhschiff/) | [Portfolio](https://jordanschiff.netlify.app)  
